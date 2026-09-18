@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
           'publisher = hw1_pkg.publisher_q2c:main',
           'subscriber = hw1_pkg.subscriber_q2c:main',
+          'cosine_wave = hw1_pkg.cosine_wave:main',
         ],
     },
 )
